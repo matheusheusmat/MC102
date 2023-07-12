@@ -1,4 +1,4 @@
-#(PT-BR) MC102 - Algoritmos e Programação de Computadores
+# (PT-BR) MC102 - Algoritmos e Programação de Computadores
 <p>
 Exercícios relacionados à matéria MC102 da Universidade Estadual de Campinas, do curso de engenharia de computação, realizados no primeiro semestre de 2022. Desenvolvidos em Python 3. Assuntos de cada 'lab':<br>
 • lab01 - Condicionais simples<br>
@@ -17,7 +17,7 @@ Exercícios relacionados à matéria MC102 da Universidade Estadual de Campinas,
 • lab14 - Recursão avançada<br>
 </p>
 
-#(ENG) MC102 - Algorithms and Computer Programming
+# (ENG) MC102 - Algorithms and Computer Programming
 <p>
 Exercises related to MC102 subject from Universidade Estadual de Campinas, computer engineering course, made during the first semester of 2022. Developed in Python 3. Concepts worked in each 'lab':<br>
 • lab01 - Simple conditions<br>
